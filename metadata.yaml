@@ -1,0 +1,28 @@
+_repo: Miniaturok_68489
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Révész, Béla
+    alias: Revesz, Bela
+    birthdate: 1876
+    deathdate: 1944
+    gutenberg_agent_id: '46812'
+    url: http://www.gutenberg.org/2009/agents/46812
+description: ''
+gutenberg_issued: '2022-07-10'
+identifiers:
+  gutenberg: '68489'
+language: hu
+pgterms:marc905: 20220705133342rvsz
+pgterms:marc906: '1919'
+pgterms:marc907: hu
+production_note: Albert László from page images generously made available by the Google
+  Books Library Project
+publication_note: Hungary :Athenaeum,1919.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Miniatürök
+url: http://www.gutenberg.org/ebooks/68489
