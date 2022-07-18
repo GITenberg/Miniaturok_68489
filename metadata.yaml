@@ -1,5 +1,8 @@
 _repo: Miniaturok_68489
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Révész, Béla
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '46812'
     url: http://www.gutenberg.org/2009/agents/46812
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68489#Miniaturok
 gutenberg_issued: '2022-07-10'
 identifiers:
   gutenberg: '68489'
